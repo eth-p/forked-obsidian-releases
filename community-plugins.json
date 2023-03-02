@@ -6078,5 +6078,12 @@
         "author": "1C0D",
         "description": "Close similar tabs.",
         "repo": "1C0D/Obsidian-Close-Similar-Tabs"
+    },
+    {
+        "id": "callout-manager",
+        "name": "Callout Manager",
+        "description": "An plugin that makes creating and configuring callouts easy.",
+        "author": "eth-p",
+        "repo": "eth-p/obsidian-callout-manager"
     }
 ]
